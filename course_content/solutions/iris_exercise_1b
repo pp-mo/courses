@@ -1,0 +1,2 @@
+for cube in cubes:
+    print(cube.standard_name)

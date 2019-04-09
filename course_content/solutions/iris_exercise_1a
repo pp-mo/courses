@@ -1,0 +1,3 @@
+fname = iris.sample_data_path('atlantic_profiles.nc')
+cubes = iris.load(fname)
+print(cubes)
