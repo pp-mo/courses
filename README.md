@@ -71,8 +71,8 @@ There are also two older courses included here,
 covering numpy and matplotlib at an entry level.
 
 However, these sources are no longer actively maintained.  
-As a similar fast introduction to numpy and matplotlib,
-we can recommend the sections on those topics
+Instead, as a similar fast introduction to numpy and matplotlib,
+we now recommend the sections on those topics
 in [the Scipy lectures](http://scipy-lectures.org/index.html).  
 For more detail, in time, you should also refer to the standard tutorials
 for those projects.
